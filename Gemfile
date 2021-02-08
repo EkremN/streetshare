@@ -6,7 +6,7 @@ ruby '2.6.3'
 gem 'kaminari'
 gem "simple_calendar", "~> 2.0"
 gem 'geocoder'
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 gem 'cloudinary'
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'bootsnap', require: false
